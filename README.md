@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [enter](enter)
+- 👨‍💻 All of my projects are available at [MY Portfolio](enter)
 
 - 📫 How to reach me **reshabhsanghi@gmail.com**
 
