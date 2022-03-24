@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [MY Portfolio](https://portfolio-2rjohjwap-rishab-bansal1.vercel.app/)
+- 👨‍💻 All of my projects are available at [MY Portfolio](https://portfolio-rishab-bansal1.vercel.app/)
 
 - 📫 How to reach me **reshabhsanghi@gmail.com**
 
